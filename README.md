@@ -8,7 +8,7 @@ Key features:
 - 📦 **Dockerized Deployment**: To deployment on cloud services (Render)
   
 ---
-## Demo
+## 🌐 Demo
 <img width="900" height="900" alt="Screenshot 2025-10-01 212046" src="https://github.com/user-attachments/assets/166d7bb8-435f-4019-8a14-42fd71a5248a" />
 ---
 
