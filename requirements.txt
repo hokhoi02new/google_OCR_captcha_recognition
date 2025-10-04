@@ -1,0 +1,11 @@
+tensorflow>=2.8.0
+numpy>=1.21.0
+opencv-python>=4.5.5.64
+scikit-learn>=1.0.2
+fastapi>=0.78.0
+uvicorn[standard]>=0.17.0
+python-multipart>=0.0.5
+streamlit>=1.10.0
+requests>=2.27.0
+pytest
+
