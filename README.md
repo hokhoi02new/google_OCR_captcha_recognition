@@ -35,12 +35,14 @@ Key features:
 ├── Docker-UI 
 ├── Docker-API
 ├── requirements-api.txt
-├── requirements-ui.txt
+├── requirements-ui.txtas
 └── README.md
 ```
 
----
+⚠️ Note: The `captcha_images_v2/` folders are empty in this repository because the dataset are too large for GitHub.  
+You can download them from the following links: https://drive.google.com/file/d/1bhIKAr4Z-g123u96lxNnY06iQyRVnkNG/view?usp=drive_link
 
+---
 ## ⚙️ Usage
 
 #### Clone the repository
