@@ -1,5 +1,3 @@
-# OCR Google Captcha Recognition
-
 ## 🚀 Introduction
 This project builds an OCR system for Captcha recognition using deep learning approach **CRNN (CNN + BiLSTM) + CTC Loss**, provide RESTful API using FastAPI and a web UI using streamlit, both service deploy on cloud platform (Render). The model achieved 94.3% SeqAcc (Sequence Accuracy) metrics on the evaluation dataset.
 
@@ -8,7 +6,11 @@ Key features:
 - ⚡ **Backend API (FastAPI)**: A production-ready API for real-time captcha recognition.  
 - 🎨 **Frontend UI (Streamlit)**: A user interface to upload captcha images and view predictions.  
 - 📦 **Dockerized Deployment**: To deployment on cloud services (Render)
-
+  
+---
+## Demo
+<img width="900" height="900" alt="Screenshot 2025-10-01 212046" src="https://github.com/user-attachments/assets/166d7bb8-435f-4019-8a14-42fd71a5248a" />
+---
 
 ## 📂 Project Structure
 ```
