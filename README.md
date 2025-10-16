@@ -48,8 +48,8 @@ You can download them from the following links: https://drive.google.com/file/d/
 #### Clone the repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/hokhoi02new/google_OCR_captcha_recognition.git
+cd google_OCR_captcha_recognition
 ```
 
 #### Install dependencies
